@@ -1,0 +1,15 @@
+C:\Users\Yatin\Downloads\ReadCsvFile\ReadCsvFile\bin\Debug\netcoreapp3.1\ReadCsv.exe
+C:\Users\Yatin\Downloads\ReadCsvFile\ReadCsvFile\bin\Debug\netcoreapp3.1\TestCSV.csv
+C:\Users\Yatin\Downloads\ReadCsvFile\ReadCsvFile\bin\Debug\netcoreapp3.1\ReadCsv.deps.json
+C:\Users\Yatin\Downloads\ReadCsvFile\ReadCsvFile\bin\Debug\netcoreapp3.1\ReadCsv.runtimeconfig.json
+C:\Users\Yatin\Downloads\ReadCsvFile\ReadCsvFile\bin\Debug\netcoreapp3.1\ReadCsv.runtimeconfig.dev.json
+C:\Users\Yatin\Downloads\ReadCsvFile\ReadCsvFile\bin\Debug\netcoreapp3.1\ReadCsv.dll
+C:\Users\Yatin\Downloads\ReadCsvFile\ReadCsvFile\bin\Debug\netcoreapp3.1\ReadCsv.pdb
+C:\Users\Yatin\Downloads\ReadCsvFile\ReadCsvFile\obj\Debug\netcoreapp3.1\ReadCsv.csproj.AssemblyReference.cache
+C:\Users\Yatin\Downloads\ReadCsvFile\ReadCsvFile\obj\Debug\netcoreapp3.1\ReadCsv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yatin\Downloads\ReadCsvFile\ReadCsvFile\obj\Debug\netcoreapp3.1\ReadCsv.AssemblyInfoInputs.cache
+C:\Users\Yatin\Downloads\ReadCsvFile\ReadCsvFile\obj\Debug\netcoreapp3.1\ReadCsv.AssemblyInfo.cs
+C:\Users\Yatin\Downloads\ReadCsvFile\ReadCsvFile\obj\Debug\netcoreapp3.1\ReadCsv.csproj.CoreCompileInputs.cache
+C:\Users\Yatin\Downloads\ReadCsvFile\ReadCsvFile\obj\Debug\netcoreapp3.1\ReadCsv.dll
+C:\Users\Yatin\Downloads\ReadCsvFile\ReadCsvFile\obj\Debug\netcoreapp3.1\ReadCsv.pdb
+C:\Users\Yatin\Downloads\ReadCsvFile\ReadCsvFile\obj\Debug\netcoreapp3.1\ReadCsv.genruntimeconfig.cache
